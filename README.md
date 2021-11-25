@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>About Me</h3>
-👩‍💻 Working hard to become a frontend web developer
-🙌You can reach: 
-kimnarah@gmail.com
-discord: Narah#7387
+👩‍💻 Working hard to become a frontend web developer</br>
+🙌You can reach me:</br> 
+<blockquote >kimnarah@gmail.com</br> 
+discord: Narah#7387</br></blockquote> 
 
 
 <h3>Main Tech Stack</h3>
